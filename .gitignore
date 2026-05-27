@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.csv
+*.html
+data/*
+!data/.gitkeep
+dashboard/*
+!dashboard/.gitkeep
+!images/.gitkeep
+venv/
+.agents
+*.json
